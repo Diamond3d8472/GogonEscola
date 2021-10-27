@@ -1,0 +1,5 @@
+Alteraçoes feitas:
+    Adiçao da tabela turma no painel admin
+    Alteraçao da navbar do painel admin e secretaria
+    Alteraçao da tela de login
+    

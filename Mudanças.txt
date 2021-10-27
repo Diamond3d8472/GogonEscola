@@ -1,0 +1,4 @@
+Lembrar de fazer as alteraçoes na secretaria e levar todas as mudanças de alunos para os outros
+
+lembrar tambem de fazer com que o aluno receba a nota em uma determinada materia criar uma tabela para isso
+lembrar tambem de melhorar a dashboard inicial com mais dados
